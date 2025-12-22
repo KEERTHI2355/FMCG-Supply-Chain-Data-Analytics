@@ -1,3 +1,4 @@
+---
 # 📦 FMCG Supply Chain Data Analytics  
 ### End-to-End Inventory, Demand & Logistics Analysis
 
@@ -7,7 +8,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
----
 
 ## 🚀 Project Overview
 
@@ -21,7 +21,6 @@ The analysis focuses on:
 
 The project combines **Python analytics**, **Power BI dashboards**, and a **Streamlit web app** to support **data-driven supply chain decisions**.
 
----
 
 ## 🎯 Business Problem
 
@@ -31,10 +30,10 @@ FMCG companies often face challenges such as:
 - Inaccurate **demand forecasts**
 - **Delivery delays** impacting service levels
 
-### Objective
-> Analyze supply chain data to identify demand–supply gaps, optimize inventory levels, and improve delivery performance using data analytics.
 
----
+## Objective
+Analyze supply chain data to identify demand–supply gaps, optimize inventory levels, and improve delivery performance using data analytics.
+
 
 ## 🧠 Key Business Questions Answered
 
@@ -44,7 +43,6 @@ FMCG companies often face challenges such as:
 - Which products experience higher delivery delays?
 - When should we reorder inventory to avoid stockouts?
 
----
 
 ## 📊 KPIs Analyzed
 
@@ -64,7 +62,6 @@ FMCG companies often face challenges such as:
 - Delivery Delay
 - Order Fulfillment Indicators
 
----
 
 ## 🗂️ Dataset Description
 
@@ -77,35 +74,25 @@ The project uses **four core tables**, designed like a real enterprise data mode
 | `orders.csv` | Customer orders & delivery details |
 | `demand_forecast.csv` | Forecasted vs actual demand |
 
----
 
-## 🏗️ Project Architecture
-
+## **🏗️ Project Architecture**
+```
 Supply-Chain-Analytics/
-│
-├── data/
-│ ├── raw/
-│ └── cleaned/
-│
-├── notebooks/
-│ ├── 01_data_creation_and_cleaning.ipynb
-│ ├── 02_supply_chain_eda.ipynb
-│ └── 03_demand_forecasting.ipynb
-│
-├── powerbi/
-│ └── FMCG_Supply_Chain_Dashboard.pbix
-│
-├── streamlit_app/
-│ └── app.py
-│
-├── insights/
-│ └── business_insights.md
-│
-├── README.md
-└── CODE.md
+data/
+  raw/
+  cleaned/
+notebooks/
+  01_data_creation_and_cleaning.ipynb
+  02_supply_chain_eda.ipynb
+  03_demand_forecasting.ipynb
+powerbi/
+  FMCG_Supply_Chain_Dashboard.pbix
+streamlit_app/
+  app.py
+README.md
+CODE.md
+```
 
-
----
 
 ## 📈 Power BI Dashboard
 
@@ -118,7 +105,6 @@ The Power BI dashboard contains **four business-focused pages**:
 
 📌 Designed for **senior management and operations teams**.
 
----
 
 ## 🌐 Streamlit Application
 
@@ -130,7 +116,6 @@ An interactive **Streamlit web app** enables:
 
 This demonstrates **analytics + application development skills**.
 
----
 
 ## 📌 Key Insights
 
@@ -139,7 +124,6 @@ This demonstrates **analytics + application development skills**.
 - Forecast inaccuracies directly impact inventory availability.
 - Delivery lead-time variability worsens replenishment delays.
 
----
 
 ## ✅ Recommendations
 
@@ -148,7 +132,6 @@ This demonstrates **analytics + application development skills**.
 - Reduce inventory for slow-moving SKUs.
 - Monitor logistics KPIs continuously using dashboards.
 
----
 
 ## 🧠 Skills Demonstrated
 
@@ -160,7 +143,16 @@ This demonstrates **analytics + application development skills**.
 - Streamlit App Development
 - Business Insight & Storytelling
 
----
+## **License**
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## **Note**
+
+•	Replace the synthetic dataset with real business data if available.
+
+•	Review and adjust chart formatting inside app.py based on your visual preferences.
+
 
 ## 👤 Author
 
@@ -171,3 +163,4 @@ Aspiring Python Developer / Data Analyst
 📌 *This project was built end-to-end with an industry-first mindset.*
 
 ---
+
