@@ -31,7 +31,7 @@ FMCG companies often face challenges such as:
 - **Delivery delays** impacting service levels
 
 
-## Objective
+## 🚩 Objective
 Analyze supply chain data to identify demand–supply gaps, optimize inventory levels, and improve delivery performance using data analytics.
 
 
@@ -143,11 +143,11 @@ This demonstrates **analytics + application development skills**.
 - Streamlit App Development
 - Business Insight & Storytelling
 
-## **License**
+## 📄 **License**
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-## **Note**
+## 📄 **Note**
 
 •	Replace the synthetic dataset with real business data if available.
 
@@ -163,4 +163,10 @@ Aspiring Python Developer / Data Analyst
 📌 *This project was built end-to-end with an industry-first mindset.*
 
 ---
+
+<p align="center">
+  🛠 Built by <a href="https://github.com/KEERTHI2355">@Keerthi2355</a> 
+  <br>
+  <a href="#-the-vault">Back to Top</a>
+</p>
 
